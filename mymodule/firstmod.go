@@ -1,0 +1,5 @@
+package mymodule
+
+func Multiple(a int, b int) int {
+	return a * b
+}
